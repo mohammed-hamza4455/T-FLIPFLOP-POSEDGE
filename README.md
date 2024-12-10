@@ -1,4 +1,6 @@
-# T-FLIPFLOP-POSEDGE
+# EXP9:T -FLIP-FLOP
+## NAME:MOHAMMED HAMZA
+## REG NO:24900511
 
 **AIM:**
 
@@ -31,12 +33,15 @@ From the above characteristic table, we can directly write the next state equati
 /* write all the steps invloved */
 
 **PROGRAM**
+![JK CODING](https://github.com/user-attachments/assets/51f66a60-fe51-489d-ae59-11956a73b041)
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
 */
 
 **RTL LOGIC FOR FLIPFLOPS**
+![JK DIAGRAM](https://github.com/user-attachments/assets/d225d7eb-555b-49c8-897a-d0cd86c7f51a)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+![JK WAVEFORM](https://github.com/user-attachments/assets/fd667e98-fec6-4e45-8bb7-027c92649a30)
 
 **RESULTS**
